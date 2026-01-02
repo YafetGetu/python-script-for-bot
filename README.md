@@ -1,1 +1,1 @@
-# python-script-for-bot readme
+# python-script-for-bot readme file
